@@ -1,10 +1,25 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# Project One For All
+Projeto desenvolvido durante o módulo de Back-end do curso de desenvolvimento web na Trybe.
+
+
+## Sobre o projeto
+
+Nesse projeto normalizei e populei uma tabela, e após isso ultilizei queries SQL para acessar as informações desta tabela.
+
+
+## Clonando o projeto
+
+1. Clone o projeto: `git@github.com:rayandersonsousa/project-one-for-all.git`
+2. Entre na pasta do projeto: `cd project-one-for-all-list`
+3. Instale as dependencias: `npm install`
+
+
+## Tecnologias aplicadas
+
+  - MySQL
+
+
+## Habilidades aplicadas
+
+  - Normalizar e popular uma tabela de dados.
+  - Acessar informações de uma tabela através de queries utilizando SQL.
